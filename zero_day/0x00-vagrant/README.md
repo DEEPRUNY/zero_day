@@ -1,1 +1,1 @@
-not empty
+echo "This is a vagrant task"
